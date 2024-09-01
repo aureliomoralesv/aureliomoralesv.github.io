@@ -52,7 +52,7 @@ sections:
       columns: '1'
   - block: experience
     content:
-      title: Experience
+      title: Professional Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -62,13 +62,39 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Pre sales engineer
+          company: Telefónica del Perú S.A.A.
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Lima, Perú
+          date_start: '2006-05-01'
+          date_end: '2008-01-01'
+          description: |2-
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
+        - title: Senior support engineer
+          company: Telefónica Empresas Perú S.A.A.
+          company_url: ''
+          company_logo: org-gc
+          location: Lima, Perú
+          date_start: '2001-09-01'
+          date_end: '2006-04-01'
+          description: |2-
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
+        - title: Project engineer
+          company: Telefónica Sistemas Sucursal del Peru S.A.
+          company_url: ''
+          company_logo: org-gc
+          location: Lima, Perú
+          date_start: '1996-07-01'
+          date_end: '2001-08-01'
           description: |2-
               Responsibilities include:
 

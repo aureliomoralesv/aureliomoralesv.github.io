@@ -54,28 +54,28 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: VHDL
         description: ''
-        percent: 80
+        percent: 100
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: ANSI C
         description: ''
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: Quartus Prime (Altera) & ISE (Xilinx) EDA tools
         description: ''
-        percent: 40
+        percent: 100
         icon: database
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Comic books
         description: ''
-        percent: 60
+        percent: 100
         icon: person-hiking
         icon_pack: fas
       - name: Cats
@@ -123,5 +123,5 @@ social:
 highlight_name: true
 ---
 
-Aurelio Morales Villanueva is a professor of the Electronics Engineering Department, College of Electrical and Electronics Engineering at Universidad Nacional de Ingenieria (UNI), Peru. He has experience in presale, after sale and administration of data communication infrastructure projects and computing platforms in transnational companies in the telecomminications sector. His research interests include dynamic reconfiguration on FPGAs, computer architecture and embedded SoC on FPGAs.
+Aurelio Morales Villanueva is a professor of the Electronics Engineering Department, College of Electrical and Electronics Engineering, at Universidad Nacional de Ingenieria (UNI), Peru. He has experience in presale, after sale and administration of data communication infrastructure projects and computing platforms in transnational companies in the telecomminications sector. His research interests include dynamic reconfiguration on FPGAs, computer architecture and embedded SoC on FPGAs.
 {style="text-align: justify;"}
