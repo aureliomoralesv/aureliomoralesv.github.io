@@ -295,8 +295,8 @@ sections:
 #        latitude: '37.4275' # for Stanford University
 #        longitude: '-122.1697' # for Stanford University
 #coordinates for UNI
-        latitude: '-12.0238'
-        longitude: '-77.0484'  
+        latitude:  '-12.017222'
+        longitude: '-77.048889'  
 #      contact_links:
 #        - icon: twitter
 #          icon_pack: fab
