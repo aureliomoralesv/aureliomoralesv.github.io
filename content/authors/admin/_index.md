@@ -43,7 +43,7 @@ education:
       institution: State University of New York, Buffalo
       year: 1994
     - course: MSc in Electronics Engineering
-      institution: Universidad Nacional de Ingenieria
+      institution: Universidad Nacional de Ingeniería
       year: 1991  
     - course: BSc in Electronics Engineering
       institution: Universidad Nacional de Ingeniería
