@@ -29,14 +29,14 @@ bio: My research interests include reconfigurable computing, computer architectu
 
 # Interests to show in About widget
 interests:
-  - Reconfigurable Computing on FPGAs
-  - Scalable Computer Architecture
-  - System on Chip based on FPGAs
+  - Dynamic Reconfiguration on FPGAs
+  - Parallel/Distributed Computer Architecture
+  - FPGA-based System on Chip (SoC)
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Electrical and Computer Engineering
+    - course: PhD in Electrical & Computer Engineering
       institution: University of Florida
       year: 2015
     - course: MSc in Electrical Engineering
@@ -97,21 +97,21 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/GeorgeCushen
+#    label: Follow me on Twitter
+#    display:
+#      header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=WMs3QN4AAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/aureliomoralesv/
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/aurelio-morales-phd-1505ba1b/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -123,5 +123,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Aurelio Morales Villanueva is a professor of the Electronics Engineering Department, College of Electrical and Electronics Engineering at Universidad Nacional de Ingenieria (UNI), Peru. He has experience in presale, after sale and administration of data communication infrastructure projects and computing platforms in transnational companies in the telecomminications sector. His research interests include dynamic reconfiguration on FPGAs, computer architecture and embedded SoC on FPGAs.
 {style="text-align: justify;"}
