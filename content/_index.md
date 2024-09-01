@@ -69,12 +69,11 @@ sections:
           location: Lima, Perú
           date_start: '2006-05-01'
           date_end: '2008-01-01'
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+#          description: |2-
+#              Responsibilities include:
+#              * Analysing
+#              * Modelling
+#              * Deploying
         - title: Senior support engineer
           company: Telefónica Empresas Perú S.A.A.
           company_url: ''
@@ -82,12 +81,11 @@ sections:
           location: Lima, Perú
           date_start: '2001-09-01'
           date_end: '2006-04-01'
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+#          description: |2-
+#              Responsibilities include:
+#              * Analysing
+#              * Modelling
+#              * Deploying
         - title: Project engineer
           company: Telefónica Sistemas Sucursal del Peru S.A.
           company_url: ''
@@ -95,12 +93,11 @@ sections:
           location: Lima, Perú
           date_start: '1996-07-01'
           date_end: '2001-08-01'
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+#          description: |2-
+#              Responsibilities include:
+#              * Analysing
+#              * Modelling
+#              * Deploying
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
