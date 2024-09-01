@@ -50,7 +50,7 @@ sections:
       username: admin
     design:
       columns: '1'
-  - block: professional experience
+  - block: experience
     content:
       title: Professional Experience
       # Date format for experience
@@ -121,7 +121,7 @@ sections:
           location: Lima, Perú
           date_start: '1989-10-01'
           date_end: '1992-09-01'
-          description: Taught electronics engineering courses.
+          description: Taught electronics engineering courses (undergraduate).
     design:
       columns: '2'
   - block: accomplishments
