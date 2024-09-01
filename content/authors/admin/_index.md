@@ -112,6 +112,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/aurelio-morales-phd-1505ba1b/
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0000-0002-5469-4912
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
