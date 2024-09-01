@@ -50,7 +50,7 @@ sections:
       username: admin
     design:
       columns: '1'
-  - block: experience
+  - block: professional experience
     content:
       title: Professional Experience
       # Date format for experience
@@ -98,14 +98,44 @@ sections:
 #              * Analysing
 #              * Modelling
 #              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+    design:
+      columns: '2'
+  - block: academic experience
+    content:
+      title: Academic Experience
+      # Date format for experience
+      #   Refer to https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Professor 
+          company: Universidad Nacional de Ingeniería
+          company_url: 'https://www.uni.edu.pe/'
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Lima, Perú
+          date_start: '2012-06-01'
+          date_end: ''
+          description: Taught electronics engineering courses (undergraduate) and researched on FPGA applications.
+        - title: Associate Professor
+          company: Universidad Nacional de Ingeniería
+          company_url: 'https://www.uni.edu.pe/'
+          company_logo: org-x
+          location: Lima, Perú
+          date_start: '1994-04-01'
+          date_end: '2012-05-31'
+          description: Taught electronics engineering courses (undergraduate and graduate) and researched on FPGA applications.
+        - title: Assistant Professor
+          company: Universidad Nacional de Ingeniería
+          company_url: 'https://www.uni.edu.pe/'
+          company_logo: org-x
+          location: Lima, Perú
+          date_start: '1989-10-01'
+          date_end: '1992-09-01'
+          description: Taught electronics engineering courses.
     design:
       columns: '2'
   - block: accomplishments
