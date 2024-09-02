@@ -231,7 +231,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Featured Publications
+      title: Journal Articles
       filters:
         folders:
           - publication
@@ -241,7 +241,17 @@ sections:
       view: card
   - block: collection
     content:
-      title: Recent Publications
+      title: Conference Papers
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
+  - block: collection
+    content:
+      title: Papers that reference my work
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
