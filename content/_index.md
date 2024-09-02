@@ -234,7 +234,7 @@ sections:
       title: Journal Articles
       filters:
         folders:
-          - publication
+          - publication/journal-article/
         featured_only: true
     design:
       columns: '2'
@@ -244,14 +244,14 @@ sections:
       title: Conference Papers
       filters:
         folders:
-          - publication
+          - publication/conference-paper/
         featured_only: true
     design:
       columns: '2'
       view: card
   - block: collection
     content:
-      title: Papers that reference my work
+      title: Works that reference my research
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
