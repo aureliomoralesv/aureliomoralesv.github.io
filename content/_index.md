@@ -234,7 +234,7 @@ sections:
       title: Journal Articles
       filters:
         folders:
-          - publication/journal-article
+          - publication
         featured_only: true
     design:
       columns: '2'
@@ -244,7 +244,7 @@ sections:
       title: Conference Papers
       filters:
         folders:
-          - publication/conference-paper
+          - publication
         featured_only: true
     design:
       columns: '2'
