@@ -42,6 +42,10 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+    design:
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['20px', '0', '20px', '0'] 
   - block: skills
     content:
       title: Skills
@@ -127,6 +131,9 @@ sections:
           description: Taught electronics engineering courses (undergraduate).
     design:
       columns: '2'
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['20px', '0', '20px', '0']
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -169,6 +176,9 @@ sections:
           url: ''
     design:
       columns: '2'
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['20px', '0', '20px', '0']
 #  - block: collection
 #    id: posts
 #    content:
@@ -223,6 +233,9 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['20px', '0', '20px', '0']
 #  - block: markdown
 #    content:
 #      title: Gallery
@@ -242,6 +255,9 @@ sections:
     design:
       columns: '2'
       view: card
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['20px', '0', '20px', '0']
   - block: collection
     content:
       title: Conference Papers
@@ -252,6 +268,9 @@ sections:
     design:
       columns: '2'
       view: card
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['20px', '0', '20px', '0']
   - block: collection
     content:
       title: Works that reference my research
@@ -266,6 +285,9 @@ sections:
     design:
       columns: '2'
       view: citation
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['20px', '0', '20px', '0']
 #  - block: collection
 #    id: talks
 #    content:
@@ -335,4 +357,7 @@ sections:
           captcha: false
     design:
       columns: '2'
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['20px', '0', '20px', '0']
 ---
