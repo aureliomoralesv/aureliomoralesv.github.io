@@ -1,16 +1,23 @@
 ---
-title: "An example journal article"
+title: "Uncertainty Evaluation of a Gas Turbine Model Based on a Nonlinear Autoregressive Exogenous Model and Monte Carlo Dropout"
 authors:
+- Armando Cajahuaringa
+- Rubén Aquize Palacios
+- Juan M. Mauricio Villanueva
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- José Machuca
+- Juan Contreras
+- Kiara Rodríguez Bautista
+
+#author_notes:
+#- "Equal contribution"
+#- "Equal contribution"
+
+date: "2024-01-01T00:00:00Z"
+doi: "https://dx.doi.org/10.3390/s24020465"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,29 +25,29 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "*Sensors*"
+publication_short: "*Sensors*"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Gas turbines are thermoelectric plants with various applications, such as large-scale electricity production, petrochemical industry, and steam generation. In order to optimize the operation of a gas turbine, it is necessary to develop system identification models that allow for the development of studies and analyses to increase the system’s reliability. Current strategies for modeling complex and non-linear systems can be based on artificial intelligence techniques, using autoregressive neural networks of the NARX and LSTM type. In this context, this work aims to develop a model of a gas turbine capable of estimating the rotation speed of the turbine and simultaneously estimating the uncertainty associated with the estimation. These methodologies are based on artificial neural networks and the Monte Carlo dropout simulation method. The results were obtained from experimental data from a 215 MW gas turbine, getting the best model with a MAPE of 0.02\% and an uncertainty associated with the turbine rotation speed of 2.2 RPM.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: blah blah blah blah.
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
-#   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+   url: "https://www.mdpi.com/1424-8220/24/2/465"
+#url_code: ''
+#url_dataset: ''
+#url_project: ''
+#url_source: ''
+#url_video: ''
+url_pdf: 'https://www.mdpi.com/1424-8220/24/2/465/pdf?version=1705028686'
+#url_poster: ''
+#url_slides: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
