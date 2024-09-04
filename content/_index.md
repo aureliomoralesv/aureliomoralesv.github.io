@@ -250,7 +250,7 @@ sections:
       title: Journal Articles
       filters:
         folders:
-          - publication/journal-article
+          - publication
         featured_only: true
     design:
       columns: '2'
