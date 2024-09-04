@@ -31,7 +31,7 @@ publication_short: "*Sensors*"
 abstract: Gas turbines are thermoelectric plants with various applications, such as large-scale electricity production, petrochemical industry, and steam generation. In order to optimize the operation of a gas turbine, it is necessary to develop system identification models that allow for the development of studies and analyses to increase the system’s reliability. Current strategies for modeling complex and non-linear systems can be based on artificial intelligence techniques, using autoregressive neural networks of the NARX and LSTM type. In this context, this work aims to develop a model of a gas turbine capable of estimating the rotation speed of the turbine and simultaneously estimating the uncertainty associated with the estimation. These methodologies are based on artificial neural networks and the Monte Carlo dropout simulation method. The results were obtained from experimental data from a 215 MW gas turbine, getting the best model with a MAPE of 0.02\% and an uncertainty associated with the turbine rotation speed of 2.2 RPM.
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: .
 
 tags:
 #- Source Themes
