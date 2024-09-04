@@ -31,7 +31,7 @@ publication_short: In *2013 IEEE 21st Annual International Symposium on Field-Pr
 abstract: Partial reconfiguration (PR) of field-programmable gate arrays (FPGAs) enables hardware tasks to time multiplex PR regions (PRRs) by isolating reconfiguration to only the reconfigured PRR, which avoids halting the entire FPGA's execution. Time multiplexing PRRs requires support for unloading/loading tasks and for resuming a task's execution state. In order to resume a task's execution state, the execution state (context) must be saved when the task is unloaded so that the execution state can be restored when the task resumes- context save (CS) and context restore (CR), respectively. In this paper, we present a software-based, on-chip context save and restore (CSR) for PR-capable FPGAs. As compared to prior work, our CSR is autonomous (i.e., does not require any external host support), does not require custom on-chip hardware, is portable across any system design, and does not require tool flow modifications or special tools. Experimental results extensively evaluate the CSR execution time based on PRR size, enabling designers to trade off PRR granularity for CSR execution time based on application requirements.
 
 # Summary. An optional shortened abstract.
-#summary: blah blah blah.
+summary: 
 
 #tags: []
 
