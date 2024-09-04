@@ -14,7 +14,7 @@ authors:
 #  - 'Equal contribution'
 
 date: '2013-04-01T00:00:00Z'
-doi: 'https://dx.doi.org/10.1109/FCCM.2013.13'
+doi: '10.1109/FCCM.2013.13'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2013-04-01T00:00:00Z'
@@ -33,7 +33,7 @@ abstract: Partial reconfiguration (PR) of field-programmable gate arrays (FPGAs)
 # Summary. An optional shortened abstract.
 #summary: blah blah blah.
 
-tags: []
+#tags: []
 
 # Display this page in the Featured widget?
 #featured: false

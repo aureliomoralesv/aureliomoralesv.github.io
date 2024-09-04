@@ -14,7 +14,7 @@ authors:
 #- "Equal contribution"
 
 date: "2024-01-01T00:00:00Z"
-doi: "https://dx.doi.org/10.3390/s24020465"
+doi: "10.3390/s24020465"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-01-01T00:00:00Z"
