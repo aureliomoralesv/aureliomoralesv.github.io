@@ -33,7 +33,7 @@ abstract: Gas turbines are thermoelectric plants with various applications, such
 # Summary. An optional shortened abstract.
 summary: .
 
-tags:
+#tags:
 #- Source Themes
 featured: true
 
