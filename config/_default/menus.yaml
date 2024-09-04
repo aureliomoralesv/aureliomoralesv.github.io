@@ -16,10 +16,10 @@ main:
 #  - name: Talks
 #    url: '#talks'
 #    weight: 40
-  - name: Journal papers
+  - name: Journal Articles
     url: '#featured1'
     weight: 50
-  - name: Conference papers
+  - name: Conference Papers
     url: '#featured2'
     weight: 60    
   - name: Contact
