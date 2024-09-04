@@ -72,7 +72,7 @@ sections:
         - title: Pre sales engineer
           company: Telefónica del Perú S.A.A.
           company_url: ''
-          company_logo: org-gc
+#          company_logo: org-gc
           location: Lima, Perú
           date_start: '2006-05-01'
           date_end: '2008-01-01'
@@ -84,7 +84,7 @@ sections:
         - title: Senior support engineer
           company: Telefónica Empresas Perú S.A.A.
           company_url: ''
-          company_logo: org-gc
+#          company_logo: org-gc
           location: Lima, Perú
           date_start: '2001-09-01'
           date_end: '2006-04-01'
@@ -96,7 +96,7 @@ sections:
         - title: Project engineer
           company: Telefónica Sistemas Sucursal del Peru S.A.
           company_url: ''
-          company_logo: org-gc
+#          company_logo: org-gc
           location: Lima, Perú
           date_start: '1996-07-01'
           date_end: '2001-08-01'
@@ -108,7 +108,7 @@ sections:
         - title: Professor 
           company: Universidad Nacional de Ingeniería
           company_url: 'https://www.uni.edu.pe/'
-          company_logo: org-x
+#          company_logo: org-x
           location: Lima, Perú
           date_start: '2012-06-01'
           date_end: ''
@@ -116,7 +116,7 @@ sections:
         - title: Associate Professor
           company: Universidad Nacional de Ingeniería
           company_url: 'https://www.uni.edu.pe/'
-          company_logo: org-x
+#          company_logo: org-x
           location: Lima, Perú
           date_start: '1994-04-01'
           date_end: '2012-05-31'
@@ -124,7 +124,7 @@ sections:
         - title: Assistant Professor
           company: Universidad Nacional de Ingeniería
           company_url: 'https://www.uni.edu.pe/'
-          company_logo: org-x
+#          company_logo: org-x
           location: Lima, Perú
           date_start: '1989-10-01'
           date_end: '1992-09-01'
@@ -251,7 +251,7 @@ sections:
       filters:
         folders:
           - publication
-        featured_only: true
+#        featured_only: true
     design:
       columns: '2'
       view: card
@@ -264,7 +264,7 @@ sections:
       filters:
         folders:
           - publication
-        featured_only: true
+#        featured_only: true
     design:
       columns: '2'
       view: card

@@ -36,7 +36,7 @@ abstract: Partial reconfiguration (PR) of field-programmable gate arrays (FPGAs)
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+#featured: false
 
 # Custom links (uncomment lines below)
 # links:
