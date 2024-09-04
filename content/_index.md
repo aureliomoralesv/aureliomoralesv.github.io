@@ -245,7 +245,7 @@ sections:
 #    design:
 #      columns: '1'
   - block: collection
-    id: featured
+    id: featured1
     content:
       title: Journal Articles
       filters:
@@ -259,6 +259,7 @@ sections:
         # Customize the section spacing. Order is top, right, bottom, left.
         padding: ['20px', '0', '20px', '0']
   - block: collection
+    id: featured2
     content:
       title: Conference Papers
       filters:
