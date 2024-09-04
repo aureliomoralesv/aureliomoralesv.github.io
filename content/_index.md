@@ -57,7 +57,7 @@ sections:
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
         padding: ['20px', '0', '20px', '0']
-  - block: professionalexperience
+  - block: experience
     content:
       title: Professional Experience
       # Date format for experience
@@ -105,16 +105,6 @@ sections:
 #              * Analysing
 #              * Modelling
 #              * Deploying
-    design:
-      columns: '2'
-      spacing:
-        # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['20px', '0', '20px', '0']
-  - block: academicexperience
-    content:
-      title: Academic Experience
-      date_format: Jan 2006
-      items:
         - title: Professor 
           company: Universidad Nacional de Ingeniería
           company_url: 'https://www.uni.edu.pe/'
