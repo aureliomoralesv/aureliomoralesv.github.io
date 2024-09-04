@@ -262,9 +262,9 @@ sections:
     id: featured2
     content:
       title: Conference Papers
-      filters:
-        folders:
-          - publication
+#      filters:
+#        folders:
+#          - publication
 #        featured_only: true
     design:
       columns: '2'
