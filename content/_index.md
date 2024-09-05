@@ -244,34 +244,35 @@ sections:
 #        {{< gallery album="demo" >}}
 #    design:
 #      columns: '1'
-  - block: collection
-    id: featured1
-    content:
-      title: Journal Articles
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-      spacing:
-        # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['20px', '0', '20px', '0']
-  - block: collection
-    id: featured2
-    content:
-      title: Conference Papers
-      filters:
-        folders:
-          - publication
+
+#  - block: collection
+#    id: featured1
+#    content:
+#      title: Journal Articles
+#      filters:
+#        folders:
+#          - publication
 #        featured_only: true
-    design:
-      columns: '2'
-      view: card
-      spacing:
-        # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['20px', '0', '20px', '0']
+#    design:
+#      columns: '2'
+#      view: card
+#      spacing:
+#        # Customize the section spacing. Order is top, right, bottom, left.
+#        padding: ['20px', '0', '20px', '0']
+#  - block: collection
+#    id: featured2
+#    content:
+#      title: Conference Papers
+#      filters:
+#        folders:
+#          - publication
+#        featured_only: true
+#    design:
+#      columns: '2'
+#      view: card
+#      spacing:
+#        # Customize the section spacing. Order is top, right, bottom, left.
+#        padding: ['20px', '0', '20px', '0']
   - block: collection
     content:
       title: Works that reference my research
