@@ -18,11 +18,11 @@ main:
 #    weight: 40
   - name: Journal Articles
 #    url: '#featured1'
-    url: 'content/#publication'
+    url: '/content/publication'
     weight: 50
   - name: Conference Papers
 #    url: '#featured2'
-    url: 'content/#publication'
+    url: '/content/publication'
     weight: 60    
   - name: Contact
     url: '#contact'
