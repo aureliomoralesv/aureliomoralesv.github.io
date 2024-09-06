@@ -28,7 +28,7 @@ publication_types: ['paper-conference']
 publication: In *2021 IEEE XXVIII International Conference on Electronics, Electrical Engineering and Computing (INTERCON)*
 publication_short: In *2021 IEEE XXVIII International Conference on Electronics, Electrical Engineering and Computing (INTERCON)*
 
-abstract: .
+abstract: Dynamic reconfigurable processors take advantage of the flexibility of general-purpose processors architectures to execute instruction programs, and the flexibility of reconfigurable logic, implementing specialized hardware designs with better performance and energy-efficiency. During runtime, the reconfigurable logic is modified to fit calculations of the application. Prior works propose new reconfigurable architectures that lack of a software ecosystem or architectures based in intellectual property instruction sets. In the present work, partial dynamic reconfiguration is implemented to a tightly coupled coprocessor attached to a RISC-V soft-core that executes Linux. The complete system is tested on the Nexys 4-DDR development board with the AES and DES encryption algorithms. The results show a speedup of up to 249.91 times faster execution and an average reconfiguration time of 151 ms.
 
 # Summary. An optional shortened abstract.
 summary: .
