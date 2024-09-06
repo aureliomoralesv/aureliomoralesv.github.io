@@ -235,23 +235,9 @@ sections:
 #    design:
 #      columns: '1'
   - block: collection
-    id: journals
+    id: publications
     content:
-      title: Journal Papers
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-      spacing:
-        # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['20px', '0', '20px', '0']
-  - block: collection
-    id: conferences
-    content:
-      title: Conference Papers
+      title: Journal & Conference Papers
       filters:
         folders:
           - publication
