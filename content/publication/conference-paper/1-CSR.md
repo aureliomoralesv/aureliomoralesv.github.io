@@ -49,8 +49,8 @@ featured: true
 #url_source: ''
 #url_video: ''
 url_pdf: 'https://aureliomoralesv.github.io/publication/conference-paper/FCCM13_morales_CSR.pdf'
-url_poster: 'https://aureliomoralesv.github.io/publication/conference-paper/FCCM13_morales_CSR-poster.pdf'
-url_slides: 'https://aureliomoralesv.github.io/publication/conference-paper/FCCM13_morales_CSR.pptx'
+url_poster: 'https://aureliomoralesv.github.io/publication/conference-paper/FCCM13_morales_CSR_poster.pdf'
+url_slides: 'https://aureliomoralesv.github.io/publication/conference-paper/FCCM13_morales_CSR_slides.pptx'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
