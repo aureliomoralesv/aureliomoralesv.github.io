@@ -236,9 +236,9 @@ sections:
 #      columns: '1'
 
   - block: collection
-    id: featured
+    id: publication
     content:
-      title: Journal & Conference Papers
+      title: Publications
       filters:
         folders:
           - publication
