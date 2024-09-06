@@ -6,7 +6,7 @@ title: 'Configuration Prefetching and Reuse for Preemptive Hardware Multitasking
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-#  - Rohit Kumar
+  - Rohit Kumar
   - Ann Gordon-Ross
 
 # Author notes (optional)
