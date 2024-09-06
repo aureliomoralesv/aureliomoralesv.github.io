@@ -88,11 +88,6 @@ sections:
           location: Lima, Perú
           date_start: '2001-09-01'
           date_end: '2006-04-01'
-#          description: |2-
-#              Responsibilities include:
-#              * Analysing
-#              * Modelling
-#              * Deploying
         - title: Project engineer
           company: Telefónica Sistemas Sucursal del Peru S.A.
           company_url: ''
@@ -100,11 +95,6 @@ sections:
           location: Lima, Perú
           date_start: '1996-07-01'
           date_end: '2001-08-01'
-#          description: |2-
-#              Responsibilities include:
-#              * Analysing
-#              * Modelling
-#              * Deploying
         - title: Professor 
           company: Universidad Nacional de Ingeniería
           company_url: 'https://www.uni.edu.pe/'
@@ -246,27 +236,13 @@ sections:
 #      columns: '1'
 
   - block: collection
-    id: featured1
+    id: featured
     content:
-      title: Journal Articles
+      title: Journal & Conference Papers
       filters:
         folders:
           - publication
         featured_only: true
-    design:
-      columns: '2'
-      view: card
-      spacing:
-        # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['20px', '0', '20px', '0']
-  - block: collection
-    id: featured2
-    content:
-      title: Conference Papers
-      filters:
-        folders:
-          - publication
-#        featured_only: true
     design:
       columns: '2'
       view: card
