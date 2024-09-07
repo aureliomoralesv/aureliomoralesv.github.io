@@ -76,11 +76,7 @@ sections:
           location: Lima, Perú
           date_start: '2006-05-01'
           date_end: '2008-01-01'
-#          description: |2-
-#              Responsibilities include:
-#              * Analysing
-#              * Modelling
-#              * Deploying
+          description: Data communications pre sales engineer for Poder Judicial, CCFFAA, ONP, FAP, Minedu, SIMA Perú
         - title: Senior support engineer
           company: Telefónica Empresas Perú S.A.A.
           company_url: ''
@@ -88,6 +84,7 @@ sections:
           location: Lima, Perú
           date_start: '2001-09-01'
           date_end: '2006-04-01'
+          description: Support engineer for Sun Microsystems platforms in Telefonica group
         - title: Project engineer
           company: Telefónica Sistemas Sucursal del Peru S.A.
           company_url: ''
@@ -95,6 +92,7 @@ sections:
           location: Lima, Perú
           date_start: '1996-07-01'
           date_end: '2001-08-01'
+          description: Pre sales engineer for computing platforms in Telefonica group
         - title: Professor 
           company: Universidad Nacional de Ingeniería
           company_url: 'https://www.uni.edu.pe/'
