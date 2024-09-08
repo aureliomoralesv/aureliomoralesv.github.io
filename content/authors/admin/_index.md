@@ -54,15 +54,16 @@ education:
 skills:
   - name: Technical
     items:
-      - name: VHDL
+      - name: VHDL language
         description: ''
         percent: 100
         icon: python
         icon_pack: fab
-      - name: ANSI C
+      - name: ANSI C language
         description: ''
         percent: 100
-        icon: chart-line
+#        icon: chart-line
+        icon: language-c
         icon_pack: fas
       - name: Quartus Prime (Altera) & ISE (Xilinx) EDA tools
         description: ''
@@ -76,7 +77,8 @@ skills:
       - name: Comic books
         description: ''
         percent: 100
-        icon: person-hiking
+#        icon: person-hiking
+        icon: book
         icon_pack: fas
       - name: Cats
         description: ''
