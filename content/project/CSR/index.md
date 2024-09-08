@@ -1,6 +1,6 @@
 ---
 title: On-Chip Context Save and Restore on Partially Reconfigurable FPGAs
-summary: Project developed as a research volunteer student at National Science Foundation (NSF) Center for High-Performance Reconfigurable Computing (CHREC), as part of the doctoral program at the University of Florida.
+summary: Project developed as a graduate research volunteer student at National Science Foundation (NSF) Center for High-Performance Reconfigurable Computing (CHREC), as part of the doctoral program at the University of Florida.
 tags:
   - CSR
 date: '2013-06-04T00:00:00Z'
