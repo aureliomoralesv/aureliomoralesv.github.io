@@ -50,7 +50,7 @@ sections:
           location: Lima, Perú
           date_start: '2006-05-01'
           date_end: '2008-01-01'
-          description: Data communications pre sales engineer for Poder Judicial, CCFFAA, ONP, FAP, Minedu, SIMA Perú
+          description: Data communications pre sales engineer for Poder Judicial, CCFFAA, ONP, FAP, Minedu, SIMA
         - title: Senior support engineer
           company: Telefónica Empresas Perú S.A.A.
           company_url: ''
@@ -67,7 +67,17 @@ sections:
           date_start: '1996-07-01'
           date_end: '2001-08-01'
           description: Pre sales engineer for computing platforms in Telefonica group
-        - title: Professor 
+    design:
+      columns: '2'
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['20px', '0', '20px', '0']
+  - block: experience
+    content:
+      title: Academic Experience
+      date_format: Jan 2006
+      items:
+        - title: Professor
           company: Universidad Nacional de Ingeniería
           company_url: 'https://www.uni.edu.pe/'
 #          company_logo: org-x
@@ -259,7 +269,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Please, complete the form below, giving you full name, e-mail address and a message.
+        Please, complete the form below, giving your full name, e-mail address and a message.
       # Contact (add or remove contact options as necessary)
       email: amorales@uni.edu.pe
       phone: +51 381 6700
