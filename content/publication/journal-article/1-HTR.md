@@ -34,7 +34,7 @@ featured: true
 
 # links:
 # - name: ""
-url: "https://link.springer.com/10.1007/978-3-642-36812-7_18"
+#   url: "https://link.springer.com/10.1007/978-3-642-36812-7_18"
 #url_code: ''
 #url_dataset: ''
 #url_project: ''

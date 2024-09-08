@@ -39,7 +39,7 @@ featured: true
 
 # links:
 # - name: ""
-url: "https://www.mdpi.com/1424-8220/24/2/465"
+#   url: "https://www.mdpi.com/1424-8220/24/2/465"
 #url_code: ''
 #url_dataset: ''
 #url_project: ''
