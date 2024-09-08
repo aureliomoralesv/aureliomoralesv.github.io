@@ -62,8 +62,7 @@ skills:
       - name: ANSI C language
         description: ''
         percent: 100
-#        icon: chart-line
-        icon: language-c
+        icon: chart-line
         icon_pack: fas
       - name: Quartus Prime (Altera) & ISE (Xilinx) EDA tools
         description: ''
@@ -77,7 +76,6 @@ skills:
       - name: Comic books
         description: ''
         percent: 100
-#        icon: person-hiking
         icon: book
         icon_pack: fas
       - name: Cats
