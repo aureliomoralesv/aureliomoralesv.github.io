@@ -30,7 +30,7 @@ publication_short: In *2017 Electronic Congress (E-CON UNI)*
 abstract: Partially reconfigurable (PR) field-programmable gate arrays (FPGAs) partition the FPGA into one static region and multiple PR regions (PRRs). This partitioning enables hardware multitasking in the PRRs, where preemption/resumption of hardware tasks requires saving/restoring the preempted task's execution context with the possibility of relocating the task's context to another PRR. Prior works address the involved challenges, providing partial solutions and imposing limitations that prevent portability of relocating tasks across networked PR FPGAs. In this work, a portable solution for flexible task preemption/resumption/relocation across networked PR FPGAs is introduced, where experimental results evaluate these operations, enabling system designers to tradeoff task/PRR granularity based on application requirements.
 
 # Summary. An optional shortened abstract.
-summary: .
+summary: ' '
 
 #tags: []
 
