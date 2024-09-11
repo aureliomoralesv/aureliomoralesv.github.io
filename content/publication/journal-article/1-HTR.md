@@ -26,7 +26,7 @@ publication_short: "*Reconfigurable Computing: Architectures, Tools and Applicat
 abstract: Partial reconfiguration (PR) enables shared FPGA systems to non-intrusively time multiplex hardware tasks in partially reconfigurable regions (PRRs). To fully exploit PR, higher priority tasks should preempt lower priority tasks and preempted tasks should resume execution in any PRR. This preemption/resumption requires saving/restoring the preempted task’s execution context and relocating the task to another PRR, however, prior works only provide partial solutions and impose limitations and/or overheads. We propose on-chip hardware task relocation (HTR) software, which enables a task’s execution state to be saved, relocated to, and restored in any PRR with sufficient resources. The HTR software executes on a soft-core processor in the FPGA’s static region, and is thus portable across any system/application. Experimental results evaluate HTR execution times, enabling designers to tradeoff task/PRR granularity and HTR execution times based on application requirements.
 
 # Summary. An optional shortened abstract.
-summary: .
+#summary: .
 
 #tags:
 #- Source Themes
