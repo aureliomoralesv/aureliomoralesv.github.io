@@ -238,7 +238,7 @@ sections:
       title: Works that reference my research
       text: |-
         {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/others/).
+        Quickly discover relevant content by [filtering publications](./publication/).
         {{% /callout %}}
       filters:
         folders:
