@@ -270,9 +270,9 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle:
-      text: |-
-        Please, complete the form below, giving your full name, e-mail address and a message.
+#      subtitle:
+#      text: |-
+#        Please, complete the form below, giving your full name, e-mail address and a message.
       # Contact (add or remove contact options as necessary)
       email: amorales@uni.edu.pe
       phone: +51 381 6700
@@ -308,16 +308,16 @@ sections:
 #          icon_pack: fas
 #          name: Zoom Me
 #          link: 'https://zoom.com'
-      # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+#      # Automatically link email and phone or display as text?
+#      autolink: true
+#      # Email form provider
+#      form:
+#        provider: netlify
+#        formspree:
+#          id:
+#        netlify:
+#          # Enable CAPTCHA challenge to reduce spam?
+#          captcha: false
     design:
       columns: '2'
       spacing:
