@@ -1,5 +1,5 @@
 ---
-title: My Publications
+title: Journal & Conference Papers
 cms_exclude: true
 
 # View.

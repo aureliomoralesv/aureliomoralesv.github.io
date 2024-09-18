@@ -1,6 +1,6 @@
 ---
-title: Publications that reference my research
-#cms_exclude: true
+#title: Publications that reference my research
+cms_exclude: true
 
 # View.
 #   1 = List
