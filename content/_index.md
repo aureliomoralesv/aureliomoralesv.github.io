@@ -238,12 +238,11 @@ sections:
       title: Works that reference my research
       text: |-
         {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./others/).
+        Quickly discover relevant content by [filtering publications](./publication/others/).
         {{% /callout %}}
       filters:
         folders:
-#          - publication
-          - others
+          - publication
         exclude_featured: true
     design:
       columns: '2'
