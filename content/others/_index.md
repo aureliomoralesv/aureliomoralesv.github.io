@@ -1,5 +1,5 @@
 ---
-title: Other publications
+title: Publications that reference my work
 cms_exclude: true
 
 # View.
