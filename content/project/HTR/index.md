@@ -9,7 +9,7 @@ date: '2013-06-04T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by Aurelio Morales on CHREC Mid Year 2012
+  caption: Photo by Aurelio Morales at CHREC Mid Year 2012
   focal_point: Smart
 
 links:
