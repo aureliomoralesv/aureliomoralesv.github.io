@@ -21,7 +21,7 @@ url_code: ''
 #url_pdf: ''
 url_slides: ''
 url_video: ''
-url_pdf: 'https://aureliomoralesv.github.io/content/project/HTR/CMW13_F4-CSR+HTR_poster.pdf'
+url_pdf: 'https://aureliomoralesv.github.io/content/project/CMW13_F4-CSR+HTR_poster.pdf'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

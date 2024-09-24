@@ -21,7 +21,7 @@ url_code: ''
 #url_pdf: ''
 url_slides: ''
 url_video: ''
-url_pdf: 'https://aureliomoralesv.github.io/content/project/CSR/CMW12_F4-DDRM_CSR_BR_poster.pdf'
+url_pdf: 'https://aureliomoralesv.github.io/content/project/CMW12_F4-DDRM_CSR_BR_poster.pdf'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
