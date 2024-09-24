@@ -6,7 +6,7 @@ tags:
 date: '2013-06-04T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://aureliomoralesv.github.io/content/project/CSR/CMW12_F4-DDRM_CSR_BR_poster.pdf'
+external_link: ''
 
 image:
   caption: Photo by Aurelio Morales at CHREC Mid Year 2012
