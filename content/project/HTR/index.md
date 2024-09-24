@@ -6,7 +6,7 @@ tags:
 date: '2013-06-04T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'https://aureliomoralesv.github.io/content/project/HTR/CMW13_F4-CSR+HTR_poster.pdf'
 
 image:
   caption: Photo by Aurelio Morales at CHREC Mid Year 2012
@@ -21,7 +21,7 @@ url_code: ''
 #url_pdf: ''
 url_slides: ''
 url_video: ''
-url_pdf: 'https://aureliomoralesv.github.io/content/project/CMW13_F4-CSR+HTR_poster.pdf'
+#url_pdf: 'https://aureliomoralesv.github.io/content/project/HTR/CMW13_F4-CSR+HTR_poster.pdf'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
