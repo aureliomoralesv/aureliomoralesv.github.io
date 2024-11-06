@@ -200,6 +200,10 @@ sections:
           tag: CSR
         - name: On-Chip HTR
           tag: HTR
+        - name: RISC Mips
+          tag: Mips
+        - name: Superscalar CPU
+          tag: Superscalar
 #        - name: Other
 #          tag: Demo
     design:

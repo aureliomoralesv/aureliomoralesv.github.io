@@ -1,6 +1,6 @@
 ---
 title: Design and Implementation of a Superscalar CPU on a FPGA for Teaching and Research Purposes
-summary: Project developed at the Research Institue of the College of Electrical and Electronics Engineering (IIFIEE) at the University Nacional de Ingeniería (UNI), Perú, before being engaged in a doctoral program at the University of Florida. This project was presented at IEEE INTERCON 2011 held at UNI.
+summary: Project developed at the Research Institue of the College of Electrical and Electronics Engineering (IIFIEE) at the Universidad Nacional de Ingeniería (UNI), Perú, before being engaged in a doctoral program at the University of Florida. This project was presented at IEEE INTERCON 2011 held at UNI.
 tags:
   - Superscalar
 date: '2009-07-12T00:00:00Z'

@@ -1,6 +1,6 @@
 ---
 title: Design and Implementation of a 32-bit RISC Pipeline CPU on a FPGA
-summary: Project developed at the Research Institue of the College of Electrical and Electronics Engineering (IIFIEE) at the University Nacional de Ingeniería (UNI), Perú, before being engaged in a doctoral program at the University of Florida.
+summary: Project developed at the Research Institue of the College of Electrical and Electronics Engineering (IIFIEE) at the Universidad Nacional de Ingeniería (UNI), Perú, before being engaged in a doctoral program at the University of Florida.
 tags:
   - Mips
 date: '2009-07-12T00:00:00Z'
