@@ -126,5 +126,5 @@ social:
 highlight_name: true
 ---
 
-Aurelio Morales Villanueva is a professor of the Electronics Engineering Department, College of Electrical and Electronics Engineering, at Universidad Nacional de Ingeniería (UNI), Perú. He has experience in presale, after sale and administration of data communication infrastructure projects and computing platforms in transnational companies in the telecommunications sector. His research interests include dynamic reconfiguration on FPGAs, computer architecture and embedded SoC on FPGAs.
+Aurelio Morales Villanueva is a professor of the Electronics Engineering Department, College of Electrical and Electronics Engineering, at Universidad Nacional de Ingeniería (UNI), Perú. He has experience in presale, after sale and administration of data communication infrastructure projects and computing platforms in transnational companies in the telecommunications sector. His research interests include partial dynamic reconfiguration on FPGAs, computer architecture and embedded SoC on FPGAs.
 {style="text-align: justify;"}
