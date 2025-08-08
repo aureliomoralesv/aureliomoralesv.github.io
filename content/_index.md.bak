@@ -204,6 +204,8 @@ sections:
           tag: Mips
         - name: Superscalar CPU
           tag: Superscalar
+        - name: Hopfield FPGA
+          tag: Hopfield 
 #        - name: Other
 #          tag: Demo
     design:
