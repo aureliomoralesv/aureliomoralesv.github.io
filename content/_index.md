@@ -196,6 +196,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
+        - name: fp32adder VLSI
+          tag: vlsi
         - name: On-Chip CSR
           tag: CSR
         - name: On-Chip HTR
