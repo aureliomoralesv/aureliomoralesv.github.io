@@ -32,7 +32,7 @@ interests:
   - Dynamic Reconfiguration on FPGAs
   - Parallel/Distributed Computer Architecture
   - FPGA-based System on Chip (SoC)
-  - Digital VLSI design using open-software tools
+  - Digital ASIC VLSI design using open-software tools
 
 # Education to show in About widget
 education:
