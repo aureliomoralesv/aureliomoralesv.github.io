@@ -6,7 +6,7 @@ authors:
 - admin
 - César Briceño Aranda
 - Oswaldo A. Waters Torres
-- James Erick V'ilchez García
+- James Erick Vílchez García
 - Roberto M. Dioses Soriano
 - Eduardo Roberto Rodriguez
 
